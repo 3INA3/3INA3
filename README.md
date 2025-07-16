@@ -4,6 +4,18 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,html,css,js,bash,git,linux,vscode" />
+</p>
+{
+  "Languages": ["Python", "C++", "PHP"],
+  "Learning": ["Cybersecurity", "Networking"],
+  "Level": {
+    "Python": 90,
+    "C++": 75,
+    "PHP": 65
+  }
+}
 
 ---
 
