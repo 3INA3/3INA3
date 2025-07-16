@@ -3,13 +3,14 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
 </p>
+<p align="center">
+  <img src="logo.png" alt="3INA3 Logo" width="300" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,php,html,css,js,bash,git,linux,vscode" />
 </p>
-<p align="center">
-  <img src="logo.png" alt="3INA3 Logo" width="300" />
-</p>
+
 
 
 
