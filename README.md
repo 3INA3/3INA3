@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" />
 </p>
+<p align="center">
+  <img src="banner.png" alt="3INA3 Banner" />
+</p>
 
 ---
 
