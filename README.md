@@ -27,4 +27,3 @@
 > Learning:         Cyber Security, Hacking, Networking
 > OS:               Linux / Windows
 > Favorite Editor:  VS Code, Terminal (Zsh)
-> Timezone:         GMT+3:30 (Iran)
