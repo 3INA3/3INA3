@@ -1,87 +1,77 @@
 <div align="center">
 
-# سلام، من سینا شجاعیان هستم 👋
+<!-- Header Banner -->
+![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:3b82f6&height=200&section=header&text=SINA%20SHOJAEIAN&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Python%20Instructor%20|%20Backend%20Architect&descAlignY=62&descAlign=50)
 
-**Backend Engineer | AI & Data Science Enthusiast | Technical Educator**
+<!-- Dynamic Typing Text -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Python+%26+AI+Instructor;RAG+%26+Vector+Database+Specialist;Backend+%26+System+Architect)](https://git.io/typing-svg)
 
-[![GitHub followers](https://img.shields.io/github/followers/3INA3?style=social)](https://github.com/3INA3)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR-EMAIL)
+<p align="center">
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 </div>
 
----
+<hr />
 
-### 👨‍💻 درباره من
+<div dir="rtl" align="right">
 
-من سینا هستم؛ علاقه‌مند به ساخت سیستم‌های واقعی و کاربردی در حوزه **Backend**، **هوش مصنوعی** و **علم داده**.  
-علاوه بر توسعه پروژه، بخش زیادی از وقتم را صرف **نوشتن و ساخت محتوای آموزشی با کیفیت** می‌کنم تا مسیر یادگیری برنامه‌نویسی و AI را برای دیگران ساده‌تر کنم.
+## 👤 درباره من
 
-- 🔭 در حال کار روی پروژه‌های **RAG فارسی**، تحلیل داده و سیستم‌های Backend مقیاس‌پذیر
-- 🌱 در حال یادگیری عمیق‌تر در حوزه **LLMها، Vector Database و System Design**
-- 💡 هدفم: ساخت ابزارهایی که واقعاً به درد بخورند + آموزش شفاف و ساخت‌یافته
+سلام! من **سینا شجاعیان** هستم؛ مدرس برنامه‌نویسی و متخصص حوزه **Backend** و **هوش مصنوعی**. تمرکز اصلی من روی ساخت سیستم‌های کاربردی، مدل‌های هوش مصنوعی مبتنی بر داده و آموزش مفاهیم پیشرفته برنامه‌نویسی به دانشجویان است.
 
----
+* 🚀 **در حال کار روی:** توسعه سیستم‌های RAG، پایگاه‌های داده برداری (Vector DBs) و معماری‌های مقیاس‌پذیر.
+* 🎓 **حوزه تدریس:** دوره جامع پایتون، هوش مصنوعی، یادگیری ماشین و پایگاه‌های داده.
+* 🎯 **هدف:** خلق ابزارهای واقعاً کاربردی و ساده‌سازی مفاهیم پیچیده مهندسی نرم‌افزار برای یادگیرندگان.
 
-### 📚 یادداشت‌ها و جزوه‌های آموزشی
+</div>
 
-یک مخزن مرکزی برای تمام جزوه‌ها و نوت‌های من:
+<hr />
 
-| موضوع | لینک | وضعیت |
-|-------|------|-------|
-| 🐍 Python | [sina-notes/python](https://github.com/3INA3/sina-notes) | در حال تکمیل |
-| 🧠 Machine Learning | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
-| 🗄️ SQL | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
-| ⚡ FastAPI | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
-| 🤖 Deep Learning | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
+<!-- GitHub Stats & Analytics Section -->
+<div align="center">
 
-> 📌 تمام جزوه‌ها به صورت **Markdown** و ساخت‌یافته نوشته می‌شوند (نه فقط PDF).
+## 📊 SYSTEM METRICS & GRAPHICS
 
----
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=00f0ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0d1117&title_color=00f0ff" />
+</p>
 
-### 🚀 پروژه‌های برجسته
+![Sina's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=3INA3&theme=react-dark&bg_color=0d1117&color=00f0ff&line=00f0ff&point=ffffff&area=true&hide_border=true)
 
-| پروژه | توضیح | تکنولوژی |
-|-------|------|----------|
-| **persian-rag** | سیستم RAG فارسی برای پرسش و پاسخ روی اسناد | Python, FastAPI, LLM, Vector DB |
-| **ai-code-reviewer** | بررسی‌کننده هوشمند کد با کمک هوش مصنوعی | Python, LLM, GitHub API |
-| **developer-analytics** | داشبورد تحلیل فعالیت توسعه‌دهندگان | Python, Data Analysis, Visualization |
-| **ai-research-assistant** | دستیار پژوهشی مبتنی بر AI | LLM, RAG, FastAPI |
+</div>
 
-> این پروژه‌ها به مرور تکمیل و به صورت Public منتشر می‌شوند.
+<hr />
 
----
+<div dir="rtl" align="right">
 
-### 🛠 Tech Stack
+## 🎓 یادداشت‌ها و جزوه‌های آموزشی
 
-**Languages & Backend**  
-`Python` `FastAPI` `SQL` `PostgreSQL` `Docker`
+یک مخزن مرکزی برای دسترسی مستقیم دانشجویان به سورس‌کدها، جزوات و مسیرهای یادگیری:
 
-**AI & Data**  
-`Machine Learning` `Deep Learning` `LLM` `RAG` `Vector Database` `Pandas` `Scikit-learn`
+| موضوع | وضعیت | لینک دسترسی |
+| :--- | :---: | :---: |
+| 🐍 **دوره جامع Python** | 🟢 تکمیل‌شده | [مشاهده جزوه و تمرین‌ها](https://github.com/3INA3/sina-notes) |
+| 🤖 **هوش مصنوعی و ML** | 🟡 در حال آپدیت | [مشاهده سورس‌کدها](https://github.com/3INA3/sina-notes) |
+| 🗄️ **پایگاه داده SQL** | 🟢 تکمیل‌شده | [مشاهده جزوه](https://github.com/3INA3/sina-notes) |
+| ⚡ **توسعه API با FastAPI** | 🟡 در حال تکمیل | [مشاهده سورس‌کدها](https://github.com/3INA3/sina-notes) |
 
-**Tools**  
-`Git` `GitHub Actions` `Linux` `VS Code`
+</div>
 
----
+<hr />
 
-### 📊 GitHub Analytics
+<div dir="rtl" align="right">
+
+## 🛠️ مهارت‌ها و ابزارها (Tech Stack)
+
+</div>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,sqlite,git,docker,vscode,linux&perline=8" />
+</p>
+
+<hr />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-### 📫 ارتباط با من
-
-- GitHub: [github.com/3INA3](https://github.com/3INA3)
-- LinkedIn: []
-- Email: [ایمیل ]
-
----
-
-<div align="center">
-  <i>ساختن چیزهای مفید + آموزش دادن آن‌ها</i>
-</div>
