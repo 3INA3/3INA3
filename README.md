@@ -23,6 +23,33 @@
 
 ---
 
+## 📊 آمار و تحلیل فعالیت‌ها | GitHub Analytics & Metrics
+
+<div align="center">
+  <!-- آمار کلی گیت‌هاب -->
+  <img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+  <!-- بیشترین زبان‌های استفاده شده -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=tokyonight&hide_border=false&count_private=true" height="180" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- کارت رتبه و نمره گیت‌هاب -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=3INA3&theme=tokyonight&hide_border=false" height="160" />
+  <!-- استریک و تسلسل فعالیت‌ها -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3INA3&theme=tokyonight&hide_border=false" height="160" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- ترند فعالیت‌های ماهانه -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3INA3&theme=tokyonight" width="98%" />
+</div>
+
+---
+
 ## 🛠️ مهارت‌ها و پشته فنی | Skills & Tech Stack
 
 ### 🧠 هوش مصنوعی و پردازش داده | AI & Data Science
@@ -57,11 +84,10 @@
 
 ---
 
-## 📊 وضعیت فعالیت‌ها | GitHub Stats
+## ⚡ نوار فعالیت روزانه | Activity Trophy & Badges
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=3INA3&theme=tokyonight&column=6&margin-w=15&margin-h=15" width="100%" />
 </div>
 
 ---
