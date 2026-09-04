@@ -1,46 +1,87 @@
-# 👋 Hi, I'm Sina
+<div align="center">
 
-💻 Software Developer | AI & Data Enthusiast | Backend Engineer
+# سلام، من سینا شجاعیان هستم 👋
 
-I’m interested in building practical software systems and learning through real-world projects.
+**Backend Engineer | AI & Data Science Enthusiast | Technical Educator**
 
-## 🚀 What I’m Working On
+[![GitHub followers](https://img.shields.io/github/followers/3INA3?style=social)](https://github.com/3INA3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:YOUR-EMAIL)
 
-* 🐍 Python & Backend Development
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Science & Analytics
-* ⚡ FastAPI & API Development
-* 🗄️ SQL & Database Systems
+</div>
 
-## 📚 Educational Notes
+---
 
-I’m building a collection of programming and technology notes covering:
+### 👨‍💻 درباره من
 
-* Python
-* Algorithms & Data Structures
-* SQL
-* Machine Learning
-* Deep Learning
-* Data Science
-* FastAPI
+من سینا هستم؛ علاقه‌مند به ساخت سیستم‌های واقعی و کاربردی در حوزه **Backend**، **هوش مصنوعی** و **علم داده**.  
+علاوه بر توسعه پروژه، بخش زیادی از وقتم را صرف **نوشتن و ساخت محتوای آموزشی با کیفیت** می‌کنم تا مسیر یادگیری برنامه‌نویسی و AI را برای دیگران ساده‌تر کنم.
 
-📖 **My notes:** [Sina Notes](https://github.com/3INA3/sina-notes)
+- 🔭 در حال کار روی پروژه‌های **RAG فارسی**، تحلیل داده و سیستم‌های Backend مقیاس‌پذیر
+- 🌱 در حال یادگیری عمیق‌تر در حوزه **LLMها، Vector Database و System Design**
+- 💡 هدفم: ساخت ابزارهایی که واقعاً به درد بخورند + آموزش شفاف و ساخت‌یافته
 
-## 🚀 Featured Projects
+---
 
-Coming soon...
+### 📚 یادداشت‌ها و جزوه‌های آموزشی
 
-## 🛠️ Tech Stack
+یک مخزن مرکزی برای تمام جزوه‌ها و نوت‌های من:
 
-```text
-Python • FastAPI • SQL • Git • GitHub
-Machine Learning • Data Science • Docker
-```
+| موضوع | لینک | وضعیت |
+|-------|------|-------|
+| 🐍 Python | [sina-notes/python](https://github.com/3INA3/sina-notes) | در حال تکمیل |
+| 🧠 Machine Learning | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
+| 🗄️ SQL | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
+| ⚡ FastAPI | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
+| 🤖 Deep Learning | [sina-notes](https://github.com/3INA3/sina-notes) | در حال تکمیل |
 
-## 📈 GitHub
+> 📌 تمام جزوه‌ها به صورت **Markdown** و ساخت‌یافته نوشته می‌شوند (نه فقط PDF).
 
-I use GitHub to document what I learn, build practical projects, and share educational resources.
+---
 
-## 📫 Contact
+### 🚀 پروژه‌های برجسته
 
-Feel free to connect with me through GitHub.
+| پروژه | توضیح | تکنولوژی |
+|-------|------|----------|
+| **persian-rag** | سیستم RAG فارسی برای پرسش و پاسخ روی اسناد | Python, FastAPI, LLM, Vector DB |
+| **ai-code-reviewer** | بررسی‌کننده هوشمند کد با کمک هوش مصنوعی | Python, LLM, GitHub API |
+| **developer-analytics** | داشبورد تحلیل فعالیت توسعه‌دهندگان | Python, Data Analysis, Visualization |
+| **ai-research-assistant** | دستیار پژوهشی مبتنی بر AI | LLM, RAG, FastAPI |
+
+> این پروژه‌ها به مرور تکمیل و به صورت Public منتشر می‌شوند.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Backend**  
+`Python` `FastAPI` `SQL` `PostgreSQL` `Docker`
+
+**AI & Data**  
+`Machine Learning` `Deep Learning` `LLM` `RAG` `Vector Database` `Pandas` `Scikit-learn`
+
+**Tools**  
+`Git` `GitHub Actions` `Linux` `VS Code`
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</div>
+
+---
+
+### 📫 ارتباط با من
+
+- GitHub: [github.com/3INA3](https://github.com/3INA3)
+- LinkedIn: [لینک LinkedIn خودت را اینجا بگذار]
+- Email: [ایمیل خودت را اینجا بگذار]
+
+---
+
+<div align="center">
+  <i>ساختن چیزهای مفید + آموزش دادن آن‌ها</i>
+</div>
