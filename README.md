@@ -77,8 +77,8 @@
 ### 📫 ارتباط با من
 
 - GitHub: [github.com/3INA3](https://github.com/3INA3)
-- LinkedIn: [لینک LinkedIn خودت را اینجا بگذار]
-- Email: [ایمیل خودت را اینجا بگذار]
+- LinkedIn: []
+- Email: [ایمیل ]
 
 ---
 
