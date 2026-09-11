@@ -1,67 +1,73 @@
 <div align="center">
 
-# SINA SHOJAEIAN
-**AI Researcher | Technical Instructor | Computer Engineering Student**
+# 👨‍💻 Sina Shojaeian
+### **AI Engineer & Technical Instructor**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1000&color=0EA5E9&center=true&vcenter=true&width=600&lines=AI+%26+Neural+Retrieval+Researcher;RAG+Architectures+%26+Vector+Databases;Python+%26+AI+Technical+Instructor)](https://git.io/typing-svg)
+*Building Scalable AI Systems, Neural Retrieval Infrastructure, and Full-Stack Web Applications.*
 
-<p align="center">
-  <a href="https://github.com/3INA3"><img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
-  <a href="https://github.com/3INA3"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /></a>
-  <a href="https://github.com/3INA3"><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /></a>
-  <a href="https://github.com/3INA3"><img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-3INA3-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/3INA3)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
 
 </div>
 
+## 📌 About Me
+
+Computer Engineering student, AI researcher, and Python instructor. Focus lies in developing high-performance Retrieval-Augmented Generation (RAG) pipelines, high-dimensional vector search solutions, and scalable backend services.
+
+- 🔬 **Research & Focus:** RAG Architectures, Vector Databases (FAISS / HNSW), Neural Information Retrieval
+- 🛠️ **Core Technologies:** Python, PyTorch, FastAPI, NestJS, PostgreSQL, Vector Search Engines
+- 🎓 **Education & Teaching:** Computer Engineering & Technical Instructor in Python & AI
+
 ---
 
-### 👨‍💻 About Me
+## 🛠️ Tech Stack & Skills
 
-* 🎓 **Education:** Computer Engineering Undergraduate
-* 🏫 **Teaching:** Technical Instructor for Python Programming & Artificial Intelligence
-* 🔬 **Research Interests:** Retrieval-Augmented Generation (RAG), High-Dimensional Vector Search (FAISS / HNSW), and Neural Information Retrieval
-* 💻 **Engineering:** Designing high-performance backends and modular microservices architecture
-
----
-
-### 🧠 Core Expertise & Tech Stack
-
-| Domain | Technologies & Tools |
+| Category | Technologies |
 | :--- | :--- |
-| **AI & Neural Search** | Python 3.12, PyTorch, SentenceTransformers, FAISS, RAG Architecture |
-| **Backend Engineering** | FastAPI, NestJS, RESTful APIs, Microservices |
-| **Databases & ORM** | PostgreSQL, MS SQL Server, SQLite, Prisma ORM |
-| **Tools & Environments** | Git, Docker, Linux, C/C++, MATLAB |
+| **Languages** | `Python`, `C++`, `TypeScript`, `SQL`, `MATLAB` |
+| **AI / Data Science** | `PyTorch`, `TensorFlow`, `FastAPI`, `FAISS`, `SentenceTransformers`, `RAG` |
+| **Backend & Databases** | `FastAPI`, `NestJS`, `PostgreSQL`, `SQLite`, `Prisma ORM` |
+| **Tools & Platforms** | `Git`, `Docker`, `Linux`, `VS Code` |
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,nestjs,postgres,cpp,git,docker,linux,matlab&perline=10" alt="Tech Stack Icons" />
+</div>
 
 ---
 
-### 📚 Academic & Educational Resources
-
-A curated collection of lecture materials, code bases, and research implementations:
-
-| Domain | Topics Covered | Status | Repository |
-| :--- | :--- | :---: | :---: |
-| 🐍 **Python Core & OOP** | Advanced Syntax, Data Structures & Algorithms | 🟢 Active | [Access Repository](https://github.com/3INA3/sina-notes) |
-| 🤖 **AI & Machine Learning** | Foundations, Model Architecture & Neural IR | 🟡 Updating | [Access Repository](https://github.com/3INA3/sina-notes) |
-| 🗄️ **Relational Databases** | Relational Schemas, Indexing & SQL Optimization | 🟢 Active | [Access Repository](https://github.com/3INA3/sina-notes) |
-| ⚡ **FastAPI Backend** | Production Microservices & API Architecture | 🟡 Building | [Access Repository](https://github.com/3INA3/sina-notes) |
-
----
-
-### 📊 GitHub Activity & Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&bg_color=0f172a" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=donut&theme=dark&hide_border=true&title_color=0ea5e9&text_color=94a3b8&bg_color=0f172a" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=donut&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
 </p>
+
+![Streak Analytics](https://github-readme-streak-stats.herokuapp.com/?user=3INA3&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 📚 Academic Repositories & Resources
+
+| Module / Topic | Description | Status | Repository |
+| :--- | :--- | :---: | :---: |
+| 🐍 **Python Core & System OOP** | Advanced Syntax, Data Structures & Algorithms | 🟢 Active | [Access Repo](https://github.com/3INA3/sina-notes) |
+| 🤖 **Artificial Intelligence & ML** | Applied Machine Learning & Neural Networks | 🟡 In Progress | [Access Repo](https://github.com/3INA3/sina-notes) |
+| 🗄️ **Relational Databases** | SQL Architecture, Schemas & Optimization | 🟢 Active | [Access Repo](https://github.com/3INA3/sina-notes) |
+| ⚡ **FastAPI Backend Services** | Enterprise Microservices & REST API Architecture | 🟡 In Progress | [Access Repo](https://github.com/3INA3/sina-notes) |
+
+---
+
 <div align="center">
-  <sub>Designed with precision by Sina Shojaeian</sub>
+
+<sub>Designed for Professional & Engineering Impact</sub>
+
 </div>
