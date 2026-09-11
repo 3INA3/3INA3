@@ -59,10 +59,7 @@ Computer Engineering student, AI researcher, and Python instructor. Focus lies i
 
 | Module / Topic | Description | Status | Repository |
 | :--- | :--- | :---: | :---: |
-| 🐍 **Python Core & System OOP** | Advanced Syntax, Data Structures & Algorithms | 🟢 Active | [Access Repo](https://github.com/3INA3/sina-notes) |
-| 🤖 **Artificial Intelligence & ML** | Applied Machine Learning & Neural Networks | 🟡 In Progress | [Access Repo](https://github.com/3INA3/sina-notes) |
-| 🗄️ **Relational Databases** | SQL Architecture, Schemas & Optimization | 🟢 Active | [Access Repo](https://github.com/3INA3/sina-notes) |
-| ⚡ **FastAPI Backend Services** | Enterprise Microservices & REST API Architecture | 🟡 In Progress | [Access Repo](https://github.com/3INA3/sina-notes) |
+| 💻 **Computer Workshop (کارگاه کامپیوتر)** | Practical Guide, Lab Exercises & Fundamentals | 🟢 Active | [Access Repo](https://github.com/3INA3/sina-notes) |
 
 ---
 
