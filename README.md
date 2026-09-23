@@ -1,5 +1,15 @@
 <div align="center">
 
+<!-- Waving Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=180&section=header&text=Sina%20Shojaeian&fontSize=48&fontAlignY=42&animation=twinkling&fontColor=ffffff" width="100%"/>
+
+<br/>
+
+<!-- Pixel Art Coding Room -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+<br/><br/>
+
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
 
@@ -154,19 +164,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🎮 Coding Vibes
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-
-<br/>
-*Late-night debugging • Pixel focus mode • Pure engineering flow*
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## ✍️ Random Dev Quote
 
 <div align="center">
@@ -189,10 +186,4 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=36&duration=2500&pause=800&center=true&vCenter=true&width=900&color=8A2BE2&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80;Open+to+collaboration+%26+AI+projects" alt="Thanks Typing"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=140&section=header&text=Sina%20Shojaeian&fontSize=42&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
