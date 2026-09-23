@@ -3,10 +3,6 @@
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
 
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" width="90%"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
