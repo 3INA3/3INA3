@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- 🌈 Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=220&section=header&text=Sina%20Shojaeian&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20Engineer%20%26%20Technical%20Instructor&descAlignY=60&descSize=18" width="100%"/>
-
-<br/>
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
 
@@ -29,7 +24,6 @@
 - 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**  
 - 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL  
 - 💡 Currently building high-performance multilingual semantic search systems  
-- 📫 Reach me: [GitHub](https://github.com/3INA3)
 
 </td>
 <td width="42%" align="center">
@@ -192,15 +186,7 @@
 <div align="center">
 
 <a href="https://github.com/3INA3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:">
-  <img src="https://img.icons8.com/fluency/48/gmail.png" width="45" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </a>
 
 <br/><br/>
@@ -212,5 +198,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=140&section=header&text=Sina%20Shojaeian&fontSize=42&fontAlignY=45&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
