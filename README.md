@@ -15,8 +15,6 @@
 - 👨‍💻 **Role:** Computer Engineering Student & AI Researcher
 - 🎓 **Teaching:** Technical Instructor in Python & Artificial Intelligence
 - 🔬 **Focus:** RAG Pipelines, FAISS Vector Search, Neural Information Retrieval
-- 🌐 **Contact:** [sinamsh369@gmail.com](mailto:sinamsh369@gmail.com)
-- 🔗 **LinkedIn:** [linkedin.com/in/3INA3](https://linkedin.com)
 
 <!-- RGB Rainbow Line Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a414-11eb-8058-d27a781d839f.gif" width="100%" />
