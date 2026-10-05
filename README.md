@@ -151,15 +151,27 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📚 Academic & Project Repositories
+## 📚 Academic Notes & Lecture Materials
 
 <div align="center">
 
-| Module / Topic                                          | Description                                                               | Status    | Link                                                      |
+| Module / Topic                                          | Description                                                               | Status    | Link                                        |
+| :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-----------------------------------------: |
+| 💻 **Computer Workshop** <br/>*(کارگاه کامپیوتر)*       | Practical Guide, Lab Exercises & Fundamentals                             | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes) |
+| 📊 **Data Structures** <br/>*(ساختمان داده با Python)* | From Zero to Tree & Graph — Complete Notes with Python Implementation     | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes) |
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## 🚀 Projects
+
+<div align="center">
+
+| Project                                                 | Description                                                               | Status    | Link                                                      |
 | :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-------------------------------------------------------: |
-| 💻 **Computer Workshop** <br/>*(کارگاه کامپیوتر)*       | Practical Guide, Lab Exercises & Fundamentals                             | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes)               |
-| 📊 **Data Structures** <br/>*(ساختمان داده با Python)* | From Zero to Tree & Graph — Complete Notes with Python Implementation     | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes)               |
 | 🎬 **Neural RAG Movie Search**                          | Multilingual Semantic Search with FastAPI + FAISS + Sentence-Transformers | 🟢 Active | [Repo](https://github.com/3INA3/neural-rag-movie-search)  |
+| 🖤 **Luxery — Luxury Frontend**                         | Premium 3D E-Commerce Frontend with Next.js + Three.js                    | 🟢 Active | [Repo](https://github.com/3INA3/luxury-frontend)          |
 
 </div>
 
