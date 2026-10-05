@@ -25,11 +25,11 @@
 <tr>
 <td width="58%" valign="top">
 
-- 👨‍💻 **Computer Engineering Student** & AI Researcher  
-- 🎓 Technical Instructor in **Python** & **Artificial Intelligence**  
-- 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**  
-- 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL  
-- 💡 Currently building high-performance multilingual semantic search systems  
+- 👨‍💻 **Computer Engineering Student** & AI Researcher
+- 🎓 Technical Instructor in **Python** & **Artificial Intelligence**
+- 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**
+- 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL
+- 💡 Currently building high-performance multilingual semantic search systems
 
 </td>
 <td width="42%" align="center">
@@ -155,10 +155,11 @@
 
 <div align="center">
 
-| Module / Topic | Description | Status | Link |
-|:---|:---|:---:|:---:|
-| 💻 **Computer Workshop** <br/>*(کارگاه کامپیوتر)* | Practical Guide, Lab Exercises & Fundamentals | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes) |
-| 🎬 **Neural RAG Movie Search** | Multilingual Semantic Search with FastAPI + FAISS + Sentence-Transformers | 🟢 Active | [Repo](https://github.com/3INA3/neural-rag-movie-search) |
+| Module / Topic                                          | Description                                                               | Status    | Link                                                      |
+| :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-------------------------------------------------------: |
+| 💻 **Computer Workshop** <br/>*(کارگاه کامپیوتر)*       | Practical Guide, Lab Exercises & Fundamentals                             | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes)               |
+| 📊 **Data Structures** <br/>*(ساختمان داده با Python)* | From Zero to Tree & Graph — Complete Notes with Python Implementation     | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes)               |
+| 🎬 **Neural RAG Movie Search**                          | Multilingual Semantic Search with FastAPI + FAISS + Sentence-Transformers | 🟢 Active | [Repo](https://github.com/3INA3/neural-rag-movie-search)  |
 
 </div>
 
@@ -179,7 +180,7 @@
 <div align="center">
 
 <a href="https://github.com/3INA3">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </a>
 
 <br/><br/>
