@@ -1,218 +1,124 @@
 <div align="center">
-
-<!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=200&section=header&text=Sina%20Shojaeian&fontSize=52&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:06b6d4,100:ec4899&height=180&section=header&text=Sina%20Shojaeian&fontSize=48&fontAlignY=42&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A5B4FC,67E8F9,F9A8D4&center=true&vCenter=true&width=800&lines=AI+Engineer+%26+Researcher;RAG+%26+Neural+Retrieval+Specialist;Python+%26+AI+Technical+Instructor;Building+Scalable+AI+Systems" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
-## 💫 About Me
+### 👨‍💻 About Me
 
-<div align="center">
+Computer Engineering Student & AI Researcher focused on **Retrieval-Augmented Generation (RAG)**, Neural Information Retrieval, and high-performance semantic search systems.
 
-<table>
-<tr>
-<td width="60%" valign="top">
+Currently teaching **Python** and **Artificial Intelligence**, and building production-ready multilingual AI applications.
 
-- 👨‍💻 **Computer Engineering Student** & AI Researcher  
-- 🎓 Technical Instructor in **Python** & **Artificial Intelligence**  
-- 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**  
-- 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL  
-- 💡 Currently building high-performance multilingual semantic search systems
+**Core Stack:** Python • PyTorch • FastAPI • NestJS • PostgreSQL • FAISS • Sentence-Transformers
 
-</td>
-<td width="40%" align="center">
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="260"/>
+---
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🏅 GitHub Badges
+### 🛠️ Tech Stack
 
 <div align="center">
 
-<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" height="40"/></a>
-&nbsp;
-<a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" height="40"/></a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=3INA3&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🛠️ Tech Stack & Skills
-
-### 🧠 AI / Machine Learning
-
-<div align="center">
-
+**AI / Machine Learning**  
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi&theme=dark" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42"/>
 &nbsp;
-<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" height="48"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42"/>
 
-</div>
+<br/><br/>
 
-### ⚙️ Backend & Full-Stack
-
-<div align="center">
-
+**Backend & Full-Stack**  
 <img src="https://skillicons.dev/icons?i=nestjs,ts,postgres,prisma,docker,linux,git&theme=dark" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42"/>
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="42" height="42"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="380"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🧠 AI Visualization & Dashboards
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="560"/>
-
-<br/>
-*Real-time analytics • Neural architectures • Interactive AI dashboards*
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📈 GitHub Metrics Dashboard
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=radical&count_private=true&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&icon_color=00D8FF&text_color=C9D1D9" height="185"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=donut&theme=radical&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&hide=html,css" height="185"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=3INA3&theme=radical&hide_border=false&border=8A2BE2&background=0D1117&ring=8A2BE2&fire=00D8FF&currStreakLabel=8A2BE2" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=3INA3&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📉 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3INA3&theme=tokyo-night&bg_color=0D1117&color=8A2BE2&line=00D8FF&point=FF00AA&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 📚 Academic Notes & Lecture Materials
-
-<div align="center">
-
-| Module / Topic                                          | Description                                                               | Status    | Link                                        |
-| :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-----------------------------------------: |
-| 💻 **Computer Workshop** <br/>*(کارگاه کامپیوتر)*       | Practical Guide, Lab Exercises & Fundamentals                             | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes) |
-| 📊 **Data Structures** <br/>*(ساختمان داده با Python)* | From Zero to Tree & Graph — Complete Notes with Python Implementation     | 🟢 Active | [Repo](https://github.com/3INA3/sina-notes) |
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-<div align="center">
-
-### 🎬 Neural RAG Movie Search
-**Multilingual Semantic Search** with FastAPI + FAISS + Sentence-Transformers  
-🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/neural-rag-movie-search)
 
 ---
 
-### 🖤 Luxery — Luxury Frontend
-**Premium 3D E-Commerce Frontend** with Next.js + Three.js  
-🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/luxury-frontend)
+### 🚀 Featured Projects
+
+<br/>
+
+**🎬 Neural RAG Movie Search**  
+Multilingual semantic search engine built with FastAPI, FAISS, and Sentence-Transformers (RAG Architecture)  
+[Repository](https://github.com/3INA3/neural-rag-movie-search)
+
+<br/>
+
+**🖤 Luxery — Luxury Frontend**  
+Premium 3D e-commerce frontend with Next.js, Three.js, and Framer Motion  
+[Repository](https://github.com/3INA3/luxury-frontend) • [Live Demo](https://luxury-frontend-mocha.vercel.app)
+
+<br/>
+
+**📚 Oxford IT Vocab**  
+Interactive specialized glossary for *Oxford English for Information Technology* (Units 1–8)  
+Persian meanings • Examples • Online pronunciation • Fully responsive  
+[Repository](https://github.com/3INA3/Oxford-IT-Vocab) • [Live Demo](https://itvocab.vercel.app)
+
+<br/>
 
 ---
 
-### 📚 Oxford IT Vocab
-**واژه‌نامه تخصصی و تعاملی** Oxford English for Information Technology  
-واحدهای ۱ تا ۸ • معنی فارسی • مثال • تلفظ آنلاین  
-🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) &nbsp;•&nbsp; [Live Demo](https://itvocab.vercel.app)
+### 📚 Academic Notes
+
+**Computer Workshop (کارگاه کامپیوتر)**  
+Practical guide, lab exercises & fundamentals  
+[Repository](https://github.com/3INA3/sina-notes)
+
+**Data Structures with Python (ساختمان داده)**  
+From zero to Tree & Graph with complete Python implementations  
+[Repository](https://github.com/3INA3/sina-notes)
+
+<br/>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=67E8F9&text_color=C9D1D9" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=C9D1D9&hide=html,css" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3INA3&theme=tokyonight&hide_border=true&background=0D1117&ring=A5B4FC&fire=67E8F9&currStreakLabel=A5B4FC" />
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+---
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🌐 Connect With Me
+### 🌐 Connect
 
 <div align="center">
 
 <a href="https://github.com/3INA3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="52"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" height="42"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=36&duration=2500&pause=800&center=true&vCenter=true&width=900&color=8A2BE2&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Let's+build+something+amazing+together+%F0%9F%9A%80;Open+to+collaboration+%26+AI+projects" alt="Thanks Typing"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&pause=800&center=true&vCenter=true&width=700&color=A5B4FC&lines=Open+to+collaboration+%26+AI+projects;Let's+build+something+impactful" alt="Thanks"/>
 
 </div>
