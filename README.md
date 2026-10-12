@@ -141,11 +141,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📉 Contribution Graph
+## 📊 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3INA3&theme=tokyo-night&bg_color=0D1117&color=8A2BE2&line=00D8FF&point=FF00AA&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-3d-contrib.vercel.app/api/username=3INA3&theme=radical" width="100%"/>
 
 </div>
 
@@ -155,17 +155,19 @@
 
 <br/>
 
-### 💻 Computer Workshop *(کارگاه کامپیوتر)*
-**Practical Guide, Lab Exercises & Fundamentals**  
+### 💻 کارگاه کامپیوتر (Computer Workshop)
+**راهنمای عملی، تمرین‌های آزمایشگاهی و مبانی سیستم‌عامل**  
+جزوه جامع و کاربردی برای درس کارگاه کامپیوتر شامل مفاهیم پایه، راهنمای آزمایشگاه و تکالیف عملی.  
 Status: 🟢 Active  
-🔗 [View Repository](https://github.com/3INA3/sina-notes)
+🔗 [مشاهده ریپازیتوری](https://github.com/3INA3/sina-notes)
 
 <br/>
 
-### 📊 Data Structures with Python *(ساختمان داده با Python)*
-**From Zero to Tree & Graph — Complete Notes with Python Implementation**  
+### 📊 ساختمان داده با پایتون (Data Structures with Python)
+**از صفر تا درخت و گراف — جزوه کامل همراه با پیاده‌سازی پایتون**  
+آموزش کامل ساختمان داده‌ها از سطح مبتدی تا پیشرفته با مثال‌های عملی و کد پایتون.  
 Status: 🟢 Active  
-🔗 [View Repository](https://github.com/3INA3/sina-notes)
+🔗 [مشاهده ریپازیتوری](https://github.com/3INA3/sina-notes)
 
 <br/>
 
@@ -176,15 +178,15 @@ Status: 🟢 Active
 <br/>
 
 ### 🎬 Neural RAG Movie Search
-**Multilingual Semantic Search Engine**  
-Built with FastAPI + FAISS + Sentence-Transformers (RAG Architecture)  
+**موتور جستجوی معنایی چندزبانه**  
+ساخته‌شده با FastAPI + FAISS + Sentence-Transformers بر پایه معماری RAG  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/neural-rag-movie-search)
 
 <br/>
 
 ### 🖤 Luxery — Luxury Frontend
-**Premium 3D E-Commerce Frontend**  
+**فرانت‌اند فروشگاهی لوکس و سه‌بعدی**  
 Next.js + Three.js + Framer Motion  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/luxury-frontend) &nbsp;•&nbsp; [Live Demo](https://luxury-frontend-mocha.vercel.app)
@@ -192,9 +194,9 @@ Status: 🟢 Active
 <br/>
 
 ### 📚 Oxford IT Vocab
-**Interactive Specialized Glossary**  
-Oxford English for Information Technology (Units 1–8)  
-Persian meanings • Examples • Online pronunciation • Fully responsive + Dark mode  
+**واژه‌نامه تخصصی و تعاملی**  
+Oxford English for Information Technology (واحدهای ۱ تا ۸)  
+معنی فارسی • مثال • تلفظ آنلاین • کاملاً ریسپانسیو + حالت تاریک  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) &nbsp;•&nbsp; [Live Demo](https://itvocab.vercel.app)
 
