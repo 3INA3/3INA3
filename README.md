@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Waving Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=180&section=header&text=Sina%20Shojaeian&fontSize=48&fontAlignY=42&animation=twinkling&fontColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:00D8FF,100:FF00AA&height=200&section=header&text=Sina%20Shojaeian&fontSize=52&fontAlignY=40&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <br/>
 
-<!-- Pixel Art Coding Room -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
 
 <br/><br/>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=32&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=900&lines=🚀+AI+Engineer+%26+Researcher;🧠+RAG+%26+Neural+Retrieval+Specialist;🐍+Python+%26+AI+Technical+Instructor;⚡+Building+Scalable+AI+Systems;🔥+Full-Stack+%2B+Vector+Search" alt="Typing SVG" />
 
 </div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -23,18 +23,18 @@
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-- 👨‍💻 **Computer Engineering Student** & AI Researcher
-- 🎓 Technical Instructor in **Python** & **Artificial Intelligence**
-- 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**
-- 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL
+- 👨‍💻 **Computer Engineering Student** & AI Researcher  
+- 🎓 Technical Instructor in **Python** & **Artificial Intelligence**  
+- 🔬 Research Focus: **RAG Pipelines** • **FAISS** • **Neural IR**  
+- 🛠️ Core Stack: Python • PyTorch • FastAPI • NestJS • PostgreSQL  
 - 💡 Currently building high-performance multilingual semantic search systems
 
 </td>
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="240"/>
+<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="260"/>
 
 </td>
 </tr>
@@ -48,15 +48,15 @@
 
 <div align="center">
 
-<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="42" height="42"/></a>
+<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="44" height="44"/></a>
 &nbsp;
-<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="42" height="42"/></a>
+<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="44" height="44"/></a>
 &nbsp;
-<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="42" height="42"/></a>
+<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="44" height="44"/></a>
 &nbsp;
-<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="38" height="38"/></a>
+<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" height="40"/></a>
 &nbsp;
-<a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="38" height="38"/></a>
+<a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" height="40"/></a>
 
 </div>
 
@@ -103,7 +103,7 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="360"/>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="380"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -112,7 +112,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="520"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="560"/>
 
 <br/>
 *Real-time analytics • Neural architectures • Interactive AI dashboards*
@@ -125,9 +125,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=radical&count_private=true&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&icon_color=00D8FF&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=radical&count_private=true&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&icon_color=00D8FF&text_color=C9D1D9" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=donut&theme=radical&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&hide=html,css" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3INA3&layout=donut&theme=radical&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&text_color=C9D1D9&hide=html,css" height="185"/>
 
 <br/><br/>
 
@@ -164,17 +164,32 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🚀 Projects
+## 🚀 Featured Projects
+
+<br/>
 
 <div align="center">
 
-| Project                                                 | Description                                                               | Status    | Link                                                      |
-| :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-------------------------------------------------------: |
-| 🎬 **Neural RAG Movie Search**                          | Multilingual Semantic Search with FastAPI + FAISS + Sentence-Transformers | 🟢 Active | [Repo](https://github.com/3INA3/neural-rag-movie-search)  |
-| 🖤 **Luxery — Luxury Frontend**                         | Premium 3D E-Commerce Frontend with Next.js + Three.js                    | 🟢 Active | [Repo](https://github.com/3INA3/luxury-frontend)          |
-| 📚 **Oxford IT Vocab**                                  | واژه‌نامه تخصصی و تعاملی Oxford English for Information Technology (واحدهای ۱ تا ۸) همراه با معنی فارسی، مثال و تلفظ آنلاین | 🟢 Active | [Repo](https://github.com/3INA3/Oxford-IT-Vocab)          |
+### 🎬 Neural RAG Movie Search
+**Multilingual Semantic Search** with FastAPI + FAISS + Sentence-Transformers  
+🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/neural-rag-movie-search)
+
+---
+
+### 🖤 Luxery — Luxury Frontend
+**Premium 3D E-Commerce Frontend** with Next.js + Three.js  
+🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/luxury-frontend)
+
+---
+
+### 📚 Oxford IT Vocab
+**واژه‌نامه تخصصی و تعاملی** Oxford English for Information Technology  
+واحدهای ۱ تا ۸ • معنی فارسی • مثال • تلفظ آنلاین  
+🟢 **Active** &nbsp;•&nbsp; [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) &nbsp;•&nbsp; [Live Demo](https://itvocab.vercel.app)
 
 </div>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -193,7 +208,7 @@
 <div align="center">
 
 <a href="https://github.com/3INA3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="52" height="52"/>
 </a>
 
 <br/><br/>
