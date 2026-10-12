@@ -141,11 +141,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 3D Contribution Graph
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-3d-contrib.vercel.app/api/username=3INA3&theme=radical" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3INA3&theme=react&bg_color=0D1117&color=8A2BE2&line=00D8FF&point=FF00AA&area=true&hide_border=true" width="100%"/>
 
 </div>
 
