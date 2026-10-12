@@ -172,6 +172,7 @@
 | :------------------------------------------------------ | :------------------------------------------------------------------------ | :-------: | :-------------------------------------------------------: |
 | 🎬 **Neural RAG Movie Search**                          | Multilingual Semantic Search with FastAPI + FAISS + Sentence-Transformers | 🟢 Active | [Repo](https://github.com/3INA3/neural-rag-movie-search)  |
 | 🖤 **Luxery — Luxury Frontend**                         | Premium 3D E-Commerce Frontend with Next.js + Three.js                    | 🟢 Active | [Repo](https://github.com/3INA3/luxury-frontend)          |
+| 📚 **Oxford IT Vocab**                                  | واژه‌نامه تخصصی و تعاملی Oxford English for Information Technology (واحدهای ۱ تا ۸) همراه با معنی فارسی، مثال و تلفظ آنلاین | 🟢 Active | [Repo](https://github.com/3INA3/Oxford-IT-Vocab)          |
 
 </div>
 
