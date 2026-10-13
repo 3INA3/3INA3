@@ -148,7 +148,7 @@ Status: 🟢 Active
 **جزوه کامل با حل تمرین — از جبر بول تا فلیپ‌فلاپ**  
 جدول کارنو، دیکودر، فلیپ‌فلاپ‌های SR/D/JK/T، جمع‌کننده و مثال‌های گام‌به‌گام.  
 Status: 🟢 Active  
-🔗 [مشاهده ریپازیتوری](https://github.com/3INA3/sina-notes)  
+🔗 [مشاهده ریپازیتوری](https://github.com/3INA3/sina-notes) &nbsp;•&nbsp; [🌐 Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html)  
 📄 Digital Document ID: `3INA3-LOGICCIRCUITS-20261013-A7E29C4F`
 
 <br/>
@@ -181,6 +181,14 @@ Oxford English for Information Technology (واحدهای ۱ تا ۸)
 معنی فارسی • مثال • تلفظ آنلاین • کاملاً ریسپانسیو + حالت تاریک  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) &nbsp;•&nbsp; [Live Demo](https://itvocab.vercel.app)
+
+<br/>
+
+### ⚡ Digital Logic Circuits
+**جزوه کامل مدارهای منطقی و دیجیتال**  
+جبر بول • جدول کارنو • دیکودر • فلیپ‌فلاپ — با مثال‌های گام‌به‌گام  
+Status: 🟢 Active  
+🔗 [View Repository](https://github.com/3INA3/sina-notes) &nbsp;•&nbsp; [Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html)
 
 <br/>
 
