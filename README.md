@@ -38,29 +38,17 @@
 </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+<br>
 
-## 🏅 GitHub Badges
+### 📌 راهنمای سریع پروفایل
 
-<div align="center">
-<a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="44" height="44"/></a>
-&nbsp;
-<a href="https://stars.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="40" height="40"/></a>
-&nbsp;
-<a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="40" height="40"/></a>
-</div>
+| بخش | توضیح | لینک |
+|-----|------|------|
+| **📚 جزوه‌ها و منابع آموزشی** | تمام جزوه‌های درسی (کارگاه کامپیوتر، ساختمان داده، مدار منطقی) | [رفتن به جزوه‌ها](#-academic-notes--lecture-materials) |
+| **🚀 پروژه‌ها** | پروژه‌های عملی و نمونه‌کارها (RAG، فرانت‌اند لوکس، واژه‌نامه و ...) | [رفتن به پروژه‌ها](#-featured-projects) |
+| **🌐 Live Demo** | می‌تونی مستقیم روی لینک **Live Demo** کلیک کنی و جزوه رو آنلاین مطالعه کنی (بدون نیاز به دانلود) | داخل بخش جزوه‌ها |
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-![](https://github-profile-trophy.vercel.app/?username=3INA3&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7)
-</div>
+> 💡 **نکته:** برای استفاده از جزوه‌ها کافیه روی دکمه **🌐 Live Demo** کلیک کنی. جزوه کامل داخل مرورگر باز می‌شه و می‌تونی مطالعه کنی.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -89,22 +77,12 @@
 <br/>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="380"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🧠 AI Visualization & Dashboards
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="560"/>
-<br/>
 *Real-time analytics • Neural architectures • Interactive AI dashboards*
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📈 GitHub Metrics Dashboard
+## 📈 GitHub Metrics
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=3INA3&show_icons=true&theme=radical&count_private=true&hide_border=false&border_color=8A2BE2&bg_color=0D1117&title_color=8A2BE2&icon_color=00D8FF&text_color=C9D1D9" height="185"/>
@@ -118,17 +96,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 📊 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3INA3&theme=react&bg_color=0D1117&color=8A2BE2&line=00D8FF&point=FF00AA&area=true&hide_border=true" width="100%"/>
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
 ## 📚 Academic Notes & Lecture Materials
 
-> تمام جزوه‌ها و منابع آموزشی در ریپازیتوری اختصاصی قرار دارند.
+> تمام جزوه‌ها و منابع آموزشی در ریپازیتوری اختصاصی قرار دارند.  
+> می‌تونی با کلیک روی **🌐 Live Demo** مستقیم جزوه رو آنلاین مطالعه کنی.
 
 ### 💻 کارگاه کامپیوتر (Computer Workshop)
 **راهنمای عملی، تمرین‌های آزمایشگاهی و مبانی سیستم‌عامل**  
@@ -168,14 +139,6 @@ Oxford English for Information Technology (واحدهای ۱ تا ۸)
 معنی فارسی • مثال • تلفظ آنلاین • کاملاً ریسپانسیو + حالت تاریک  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) • [Live Demo](https://itvocab.vercel.app)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
