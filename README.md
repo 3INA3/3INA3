@@ -134,9 +134,9 @@ Status: 🟢 Active
 🔗 [View Repository](https://github.com/3INA3/luxury-frontend) • [Live Demo](https://luxury-frontend-mocha.vercel.app)
 
 ### 📚 Oxford IT Vocab
-**واژه‌نامه تخصصی و تعاملی**  
-Oxford English for Information Technology (واحدهای ۱ تا ۸)  
-معنی فارسی • مثال • تلفظ آنلاین • کاملاً ریسپانسیو + حالت تاریک  
+**واژه‌نامه تخصصی و تعاملی فناوری اطلاعات**  
+۲۰ واحد کامل • ۴۴۳ اصطلاح تخصصی • فلش‌کارت حرفه‌ای  
+معنی فارسی • مثال + ترجمه • تلفظ آنلاین • علاقه‌مندی‌ها • حالت مطالعه  
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) • [Live Demo](https://itvocab.vercel.app)
 
