@@ -140,6 +140,12 @@ Status: 🟢 Active
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) • [Live Demo](https://itvocab.vercel.app)
 
+### 📊 Stats & Probability 3D
+**مرجع جامع آمار و احتمال مهندسی — نسخه سه‌بعدی پیشرفته**  
+درس‌نامه ۱۵ بخشی + ۲۲ ابزار تعاملی + شبیه‌سازهای سه‌بعدی + کیبورد ریاضی هوشمند  
+Status: 🟢 Active  
+🔗 [View Repository](https://github.com/3INA3/stats-probability-3d) • [🌐 Live Demo](https://3ina3.github.io/stats-probability-3d/)
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🌐 Connect With Me
