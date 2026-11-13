@@ -140,6 +140,13 @@ Status: 🟢 Active
 Status: 🟢 Active  
 🔗 [View Repository](https://github.com/3INA3/Oxford-IT-Vocab) • [Live Demo](https://itvocab.vercel.app)
 
+### 🌿 Programming Languages Guide
+**راهنمای تعاملی ۵۲ زبان برنامه‌نویسی**  
+کاربردها • نمونه کد • مسیر یادگیری • فیلتر و جست‌وجو  
+تم طبیعت • رابط RTL کامل • مناسب انتخاب مسیر  
+Status: 🟢 Active  
+🔗 [View Repository](https://github.com/3INA3/programming-languages-guide) • [🌐 Live Demo](https://3ina3.github.io/programming-languages-guide/)
+
 ### 📊 Stats & Probability 3D
 **مرجع جامع آمار و احتمال مهندسی — نسخه سه‌بعدی پیشرفته**  
 درس‌نامه ۱۵ بخشی + ۲۲ ابزار تعاملی + شبیه‌سازهای سه‌بعدی + کیبورد ریاضی هوشمند  
