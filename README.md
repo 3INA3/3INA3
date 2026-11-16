@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=📚+Academic+Resources+%26+Lecture+Notes;💻+Computer+Workshop;📊+Data+Structures+with+Python;⚡+Digital+Logic+Circuits;🎓+From+Beginner+to+Advanced" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=📚+Academic+Resources+%26+Lecture+Notes;💻+Computer+Workshop;📊+Data+Structures+with+Python;⚡+Digital+Logic+Circuits;🧪+Physics+Lab+II;🎓+From+Beginner+to+Advanced" alt="Typing SVG" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 | Title / Module | Level | Access |
 | --- | --- | --- |
-| 📘 **جزوه ساختمان داده با Python — از صفر** | مبتدی تا پیشرفته | [🌐 Live Demo](https://3ina3.github.io/sina-notes/) •|
+| 📘 **جزوه ساختمان داده با Python — از صفر** | مبتدی تا پیشرفته | [🌐 Live Demo](https://3ina3.github.io/sina-notes/) • |
 
 <br>
 
@@ -93,7 +93,8 @@
 
 | Title / Module | Level | Access |
 | --- | --- | --- |
-| 📗 **جزوه کامل مدارهای منطقی و دیجیتال** | از صفر کامل | [🌐 Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html) •|
+| 📗 **جزوه کامل مدارهای منطقی و دیجیتال** | از صفر کامل | [🌐 Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html) • |
+
 <br>
 
 **موضوعات پوشش‌داده‌شده:**
@@ -107,6 +108,44 @@
 <br>
 
 **Digital Document ID:** `3INA3-LOGICCIRCUITS-20261013-A7E29C4F`  
+© 2026 Sina Shojaeian (3INA3) — All Rights Reserved
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+## 🧪 Physics Lab II
+### آزمایشگاه فیزیک ۲ — گزارش کار کامل (۱ تا ۱۰)
+
+<div align="center">
+
+گزارش کار تعاملی کامل درس **آزمایشگاه فیزیک ۲**  
+شامل جداول داده، محاسبه خودکار، نمودار، مدار، مقاومت رنگی و چاپ A4
+
+</div>
+
+<br>
+
+| Title / Module | Level | Access |
+| --- | --- | --- |
+| 🧪 **گزارش کار کامل فیزیک ۲ (آزمایش ۱ تا ۱۰)** | کامل / تعاملی | [🌐 Live Demo](https://3ina3.github.io/physics2-lab-reports/) • [📂 Repository](https://github.com/3INA3/physics2-lab-reports) |
+
+<br>
+
+**موضوعات پوشش‌داده‌شده:**
+- مقاومت و کد رنگی
+- سری و موازی
+- مدارهای ترکیبی
+- پل وتستون
+- تحقیق قانون اهم
+- گزارش کامل آزمایش‌های ۱ تا ۱۰ با محاسبه خطا و نمودار
+
+<br>
+
+**Serial:** `SS-PHYS2-F222-9D2F-2026-FULL`  
+**Digital Document ID:** `3INA3-PHYS2-LAB-20261116-F2229D2F`  
 © 2026 Sina Shojaeian (3INA3) — All Rights Reserved
 
 <br>
