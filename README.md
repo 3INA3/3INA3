@@ -19,12 +19,17 @@
 
 <br>
 
-## 📌 About This Repository
+## 📌 About This Repository | درباره این ریپازیتوری
 
 <div align="center">
 
+**فارسی**  
 این ریپازیتوری مرکز جزوات و منابع آموزشی کلاس‌های من است.  
 تمام فایل‌ها به صورت منظم و با استاندارد آموزشی تهیه شده‌اند.
+
+**English**  
+This repository is the central hub of my lecture notes and educational resources.  
+All materials are organized and prepared according to professional academic standards.
 
 **Official source only · © 2026 Sina Shojaeian (3INA3) · All Rights Reserved**
 
@@ -36,11 +41,15 @@
 
 <br>
 
-## 💻 Computer Workshop (کارگاه کامپیوتر)
+## 💻 Computer Workshop | کارگاه کامپیوتر
 
 <div align="center">
 
+**فارسی**  
 کتابچه و جزوه آموزشی درس کارگاه کامپیوتر شامل مفاهیم پایه، راهنمای آزمایشگاه و تکالیف عملی.
+
+**English**  
+Comprehensive educational booklet for Computer Workshop course covering basic concepts, lab guidelines, and practical assignments.
 
 </div>
 
@@ -57,13 +66,18 @@
 
 <br>
 
-## 📊 Data Structures with Python
-### ساختمان داده با پایتون — از صفر تا درخت و گراف
+## 📊 Data Structures with Python | ساختمان داده با پایتون
+### From Zero to Trees & Graphs | از صفر تا درخت و گراف
 
 <div align="center">
 
+**فارسی**  
 جزوه کامل و قدم‌به‌قدم از **مبتدی تا پیشرفته**  
 شامل تحلیل الگوریتم، پشته، صف، لیست پیوندی، درخت و گراف با مثال‌های پایتونی
+
+**English**  
+Complete step-by-step notes from **Beginner to Advanced**  
+Including algorithm analysis, stacks, queues, linked lists, trees, and graphs with Python examples
 
 </div>
 
@@ -79,13 +93,18 @@
 
 <br>
 
-## ⚡ Digital Logic Circuits
-### مدارهای منطقی و دیجیتال — جزوه کامل با حل تمرین
+## ⚡ Digital Logic Circuits | مدارهای منطقی و دیجیتال
+### Complete Notes with Solved Exercises | جزوه کامل با حل تمرین
 
 <div align="center">
 
+**فارسی**  
 جزوه کامل و گام‌به‌گام از **صفر**  
 شامل جبر بول، جدول کارنو (۲ تا ۴ متغیره)، دیکودر، فلیپ‌فلاپ‌ها، جمع‌کننده و مثال‌های حل‌شده
+
+**English**  
+Complete step-by-step notes from **zero**  
+Covering Boolean algebra, Karnaugh maps (2–4 variables), decoders, flip-flops, adders, and solved examples
 
 </div>
 
@@ -97,13 +116,13 @@
 
 <br>
 
-**موضوعات پوشش‌داده‌شده:**
-- جبر بول و قوانین طلایی
-- جدول کارنو (دو، سه و چهار متغیره) با مثال‌های زیاد
-- مدارهای ترکیبی — نیم‌جمع‌کننده و تمام‌جمع‌کننده
-- دیکودر ۲ به ۴ و ۳ به ۸ + طراحی از صفر
-- فلیپ‌فلاپ‌های SR، D، JK و T
-- مالتی‌پلکسر، انکدر، شمارنده و رجیستر شیفت
+**موضوعات پوشش‌داده‌شده | Covered Topics:**
+- جبر بول و قوانین طلایی | Boolean Algebra & Golden Rules
+- جدول کارنو (دو، سه و چهار متغیره) | Karnaugh Maps (2, 3 & 4 variables)
+- مدارهای ترکیبی — نیم‌جمع‌کننده و تمام‌جمع‌کننده | Combinational Circuits — Half & Full Adders
+- دیکودر ۲ به ۴ و ۳ به ۸ + طراحی از صفر | 2-to-4 & 3-to-8 Decoders + Design from Scratch
+- فلیپ‌فلاپ‌های SR، D، JK و T | SR, D, JK & T Flip-Flops
+- مالتی‌پلکسر، انکدر، شمارنده و رجیستر شیفت | Multiplexer, Encoder, Counter & Shift Register
 
 <br>
 
@@ -116,13 +135,18 @@
 
 <br>
 
-## 🧪 Physics Lab II
-### آزمایشگاه فیزیک ۲ — گزارش کار کامل (۱ تا ۱۰)
+## 🧪 Physics Lab II | آزمایشگاه فیزیک ۲
+### Complete Interactive Lab Reports (1–10) | گزارش کار کامل (۱ تا ۱۰)
 
 <div align="center">
 
+**فارسی**  
 گزارش کار تعاملی کامل درس **آزمایشگاه فیزیک ۲**  
 شامل جداول داده، محاسبه خودکار، نمودار، مدار، مقاومت رنگی و چاپ A4
+
+**English**  
+Fully interactive lab reports for **Physics Laboratory II**  
+Including data tables, automatic calculations, charts, circuits, color-coded resistors, and A4 print support
 
 </div>
 
@@ -134,13 +158,13 @@
 
 <br>
 
-**موضوعات پوشش‌داده‌شده:**
-- مقاومت و کد رنگی
-- سری و موازی
-- مدارهای ترکیبی
-- پل وتستون
-- تحقیق قانون اهم
-- گزارش کامل آزمایش‌های ۱ تا ۱۰ با محاسبه خطا و نمودار
+**موضوعات پوشش‌داده‌شده | Covered Topics:**
+- مقاومت و کد رنگی | Resistance & Color Coding
+- سری و موازی | Series & Parallel
+- مدارهای ترکیبی | Combined Circuits
+- پل وتستون | Wheatstone Bridge
+- تحقیق قانون اهم | Ohm’s Law Investigation
+- گزارش کامل آزمایش‌های ۱ تا ۱۰ با محاسبه خطا و نمودار | Full reports for experiments 1–10 with error calculation & graphs
 
 <br>
 
@@ -154,35 +178,50 @@
 
 <br>
 
-## 📚 سایر پروژه‌های آموزشی و کاربردی
+## 📚 Other Educational Projects | سایر پروژه‌های آموزشی
 
-### 📖 Oxford IT Vocabulary
+### 📖 Oxford IT Vocabulary | واژه‌نامه تخصصی IT
+**فارسی**  
 واژه‌نامه تخصصی و تعاملی **Oxford English for Information Technology**  
 شامل ۲۰ واحد کامل و ۴۴۳ اصطلاح تخصصی با معنی فارسی، مثال، تلفظ و سیستم فلش‌کارت.
 
-| دسترسی | لینک |
+**English**  
+Interactive specialized vocabulary for **Oxford English for Information Technology**  
+Contains 20 complete units and 443 technical terms with Persian meanings, examples, pronunciation, and professional flashcard system.
+
+| Access | Link |
 | --- | --- |
 | 🌐 Live Demo | [itvocab.vercel.app](https://itvocab.vercel.app) |
 | 📂 Repository | [Oxford-IT-Vocab](https://github.com/3INA3/Oxford-IT-Vocab) |
 
 <br>
 
-### 📊 Stats & Probability 3D
+### 📊 Stats & Probability 3D | آمار و احتمال سه‌بعدی
+**فارسی**  
 محیط آموزشی تعاملی کامل درس **آمار و احتمال مهندسی**  
 با شبیه‌سازهای سه‌بعدی، حل گام‌به‌گام، کیبورد ریاضی هوشمند و ۲۲ ابزار تعاملی.
 
-| دسترسی | لینک |
+**English**  
+Complete interactive learning environment for **Engineering Statistics & Probability**  
+Featuring 3D simulators, step-by-step solutions, smart math keyboard, and 22 interactive tools.
+
+| Access | Link |
 | --- | --- |
 | 🌐 Live Demo | [stats-probability-3d](https://3ina3.github.io/stats-probability-3d/) |
 | 📂 Repository | [stats-probability-3d](https://github.com/3INA3/stats-probability-3d) |
 
 <br>
 
-### 🌐 Programming Languages Guide
+### 🌐 Programming Languages Guide | راهنمای زبان‌های برنامه‌نویسی
+**فارسی**  
 راهنمای تعاملی و فارسی **۵۲ زبان برنامه‌نویسی**  
 با فیلتر حوزه‌ای، نمونه کد، مسیر یادگیری و رابط کاربری مدرن.
 
-| دسترسی | لینک |
+**English**  
+Interactive field guide covering **52 programming languages**  
+With category filters, code samples, learning paths, and modern UI.
+
+| Access | Link |
 | --- | --- |
 | 🌐 Live Demo | [programming-languages-guide](https://3ina3.github.io/programming-languages-guide/) |
 | 📂 Repository | [programming-languages-guide](https://github.com/3INA3/programming-languages-guide) |
@@ -193,33 +232,47 @@
 
 <br>
 
-## 🚀 پروژه‌های فنی و نمونه کار
+## 🚀 Technical Projects & Portfolio | پروژه‌های فنی و نمونه کار
 
 ### 🎬 Neural RAG Movie Search
+**فارسی**  
 موتور جستجوی معنایی چندزبانه فیلم  
 ساخته‌شده با **FastAPI + FAISS + Sentence-Transformers** بر پایه معماری RAG.
 
-| دسترسی | لینک |
+**English**  
+Multilingual semantic movie search engine  
+Built with **FastAPI + FAISS + Sentence-Transformers** based on RAG architecture.
+
+| Access | Link |
 | --- | --- |
 | 📂 Repository | [neural-rag-movie-search](https://github.com/3INA3/neural-rag-movie-search) |
 
 <br>
 
 ### ✨ Luxury Frontend (Luxery)
+**فارسی**  
 فرانت‌اند فروشگاه لوکس و سه‌بعدی  
 ساخته‌شده با **Next.js 14 + TypeScript + Three.js + Framer Motion**.
 
-| دسترسی | لینک |
+**English**  
+Premium 3D luxury e-commerce frontend  
+Built with **Next.js 14 + TypeScript + Three.js + Framer Motion**.
+
+| Access | Link |
 | --- | --- |
 | 🌐 Live Demo | [luxury-frontend-mocha.vercel.app](https://luxury-frontend-mocha.vercel.app/) |
 | 📂 Repository | [luxury-frontend](https://github.com/3INA3/luxury-frontend) |
 
 <br>
 
-### 📝 Attendance Gateway
+### 📝 Attendance Gateway | سیستم ثبت حضور
+**فارسی**  
 سیستم ساده و سریع ثبت حضور و هدایت به جلسات آنلاین.
 
-| دسترسی | لینک |
+**English**  
+Simple and fast attendance system with automatic redirection to online sessions.
+
+| Access | Link |
 | --- | --- |
 | 📂 Repository | [attendance-gateway](https://github.com/3INA3/attendance-gateway) |
 
@@ -229,18 +282,18 @@
 
 <br>
 
-## 📂 لیست کامل ریپازیتوری‌ها
+## 📂 Complete Repository List | لیست کامل ریپازیتوری‌ها
 
-| پروژه | توضیح کوتاه | لینک |
+| Project | Short Description | Link |
 | --- | --- | --- |
-| **sina-notes** | مرکز اصلی جزوات آموزشی | [مشاهده](https://github.com/3INA3/sina-notes) |
-| **physics2-lab-reports** | گزارش کار تعاملی فیزیک ۲ | [مشاهده](https://github.com/3INA3/physics2-lab-reports) |
-| **Oxford-IT-Vocab** | واژه‌نامه تخصصی IT | [مشاهده](https://github.com/3INA3/Oxford-IT-Vocab) |
-| **stats-probability-3d** | آمار و احتمال تعاملی سه‌بعدی | [مشاهده](https://github.com/3INA3/stats-probability-3d) |
-| **programming-languages-guide** | راهنمای ۵۲ زبان برنامه‌نویسی | [مشاهده](https://github.com/3INA3/programming-languages-guide) |
-| **neural-rag-movie-search** | موتور جستجوی معنایی فیلم | [مشاهده](https://github.com/3INA3/neural-rag-movie-search) |
-| **luxury-frontend** | فروشگاه لوکس سه‌بعدی | [مشاهده](https://github.com/3INA3/luxury-frontend) |
-| **attendance-gateway** | سیستم ثبت حضور | [مشاهده](https://github.com/3INA3/attendance-gateway) |
+| **sina-notes** | مرکز اصلی جزوات آموزشی | Main educational notes hub | [View](https://github.com/3INA3/sina-notes) |
+| **physics2-lab-reports** | گزارش کار تعاملی فیزیک ۲ | Interactive Physics Lab II reports | [View](https://github.com/3INA3/physics2-lab-reports) |
+| **Oxford-IT-Vocab** | واژه‌نامه تخصصی IT | Specialized IT Vocabulary | [View](https://github.com/3INA3/Oxford-IT-Vocab) |
+| **stats-probability-3d** | آمار و احتمال تعاملی سه‌بعدی | Interactive 3D Stats & Probability | [View](https://github.com/3INA3/stats-probability-3d) |
+| **programming-languages-guide** | راهنمای ۵۲ زبان برنامه‌نویسی | Guide to 52 Programming Languages | [View](https://github.com/3INA3/programming-languages-guide) |
+| **neural-rag-movie-search** | موتور جستجوی معنایی فیلم | Semantic Movie Search Engine | [View](https://github.com/3INA3/neural-rag-movie-search) |
+| **luxury-frontend** | فروشگاه لوکس سه‌بعدی | Luxury 3D E-commerce Frontend | [View](https://github.com/3INA3/luxury-frontend) |
+| **attendance-gateway** | سیستم ثبت حضور | Attendance Gateway System | [View](https://github.com/3INA3/attendance-gateway) |
 
 <br>
 
