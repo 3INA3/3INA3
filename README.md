@@ -154,6 +154,100 @@
 
 <br>
 
+## 📚 سایر پروژه‌های آموزشی و کاربردی
+
+### 📖 Oxford IT Vocabulary
+واژه‌نامه تخصصی و تعاملی **Oxford English for Information Technology**  
+شامل ۲۰ واحد کامل و ۴۴۳ اصطلاح تخصصی با معنی فارسی، مثال، تلفظ و سیستم فلش‌کارت.
+
+| دسترسی | لینک |
+| --- | --- |
+| 🌐 Live Demo | [itvocab.vercel.app](https://itvocab.vercel.app) |
+| 📂 Repository | [Oxford-IT-Vocab](https://github.com/3INA3/Oxford-IT-Vocab) |
+
+<br>
+
+### 📊 Stats & Probability 3D
+محیط آموزشی تعاملی کامل درس **آمار و احتمال مهندسی**  
+با شبیه‌سازهای سه‌بعدی، حل گام‌به‌گام، کیبورد ریاضی هوشمند و ۲۲ ابزار تعاملی.
+
+| دسترسی | لینک |
+| --- | --- |
+| 🌐 Live Demo | [stats-probability-3d](https://3ina3.github.io/stats-probability-3d/) |
+| 📂 Repository | [stats-probability-3d](https://github.com/3INA3/stats-probability-3d) |
+
+<br>
+
+### 🌐 Programming Languages Guide
+راهنمای تعاملی و فارسی **۵۲ زبان برنامه‌نویسی**  
+با فیلتر حوزه‌ای، نمونه کد، مسیر یادگیری و رابط کاربری مدرن.
+
+| دسترسی | لینک |
+| --- | --- |
+| 🌐 Live Demo | [programming-languages-guide](https://3ina3.github.io/programming-languages-guide/) |
+| 📂 Repository | [programming-languages-guide](https://github.com/3INA3/programming-languages-guide) |
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+## 🚀 پروژه‌های فنی و نمونه کار
+
+### 🎬 Neural RAG Movie Search
+موتور جستجوی معنایی چندزبانه فیلم  
+ساخته‌شده با **FastAPI + FAISS + Sentence-Transformers** بر پایه معماری RAG.
+
+| دسترسی | لینک |
+| --- | --- |
+| 📂 Repository | [neural-rag-movie-search](https://github.com/3INA3/neural-rag-movie-search) |
+
+<br>
+
+### ✨ Luxury Frontend (Luxery)
+فرانت‌اند فروشگاه لوکس و سه‌بعدی  
+ساخته‌شده با **Next.js 14 + TypeScript + Three.js + Framer Motion**.
+
+| دسترسی | لینک |
+| --- | --- |
+| 🌐 Live Demo | [luxury-frontend-mocha.vercel.app](https://luxury-frontend-mocha.vercel.app/) |
+| 📂 Repository | [luxury-frontend](https://github.com/3INA3/luxury-frontend) |
+
+<br>
+
+### 📝 Attendance Gateway
+سیستم ساده و سریع ثبت حضور و هدایت به جلسات آنلاین.
+
+| دسترسی | لینک |
+| --- | --- |
+| 📂 Repository | [attendance-gateway](https://github.com/3INA3/attendance-gateway) |
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
+## 📂 لیست کامل ریپازیتوری‌ها
+
+| پروژه | توضیح کوتاه | لینک |
+| --- | --- | --- |
+| **sina-notes** | مرکز اصلی جزوات آموزشی | [مشاهده](https://github.com/3INA3/sina-notes) |
+| **physics2-lab-reports** | گزارش کار تعاملی فیزیک ۲ | [مشاهده](https://github.com/3INA3/physics2-lab-reports) |
+| **Oxford-IT-Vocab** | واژه‌نامه تخصصی IT | [مشاهده](https://github.com/3INA3/Oxford-IT-Vocab) |
+| **stats-probability-3d** | آمار و احتمال تعاملی سه‌بعدی | [مشاهده](https://github.com/3INA3/stats-probability-3d) |
+| **programming-languages-guide** | راهنمای ۵۲ زبان برنامه‌نویسی | [مشاهده](https://github.com/3INA3/programming-languages-guide) |
+| **neural-rag-movie-search** | موتور جستجوی معنایی فیلم | [مشاهده](https://github.com/3INA3/neural-rag-movie-search) |
+| **luxury-frontend** | فروشگاه لوکس سه‌بعدی | [مشاهده](https://github.com/3INA3/luxury-frontend) |
+| **attendance-gateway** | سیستم ثبت حضور | [مشاهده](https://github.com/3INA3/attendance-gateway) |
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<br>
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="420"/>
