@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=📚+Academic+Resources+%26+Lecture+Notes;💻+Computer+Workshop;📊+Data+Structures+with+Python;⚡+Digital+Logic+Circuits;🧪+Physics+Lab+II;🎓+From+Beginner+to+Advanced" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&color=8A2BE2,00D8FF,FF00AA,43C6AC&center=true&vCenter=true&width=800&lines=📚+Academic+Resources+%26+Lecture+Notes;💻+Computer+Workshop;📊+Data+Structures+with+Python;⚡+Digital+Logic+Circuits;🧪+Physics+Lab+II;🐙+Git+%26+GitHub+Workshop;🎓+From+Beginner+to+Advanced" alt="Typing SVG" />
 
 </div>
 
@@ -85,7 +85,7 @@ Including algorithm analysis, stacks, queues, linked lists, trees, and graphs wi
 
 | Title / Module | Level | Access |
 | --- | --- | --- |
-| 📘 **جزوه ساختمان داده با Python — از صفر** | مبتدی تا پیشرفته | [🌐 Live Demo](https://3ina3.github.io/sina-notes/) • |
+| 📘 **جزوه ساختمان داده با Python — از صفر** | مبتدی تا پیشرفته | [🌐 Live Demo](https://3ina3.github.io/sina-notes/) |
 
 <br>
 
@@ -112,7 +112,7 @@ Covering Boolean algebra, Karnaugh maps (2–4 variables), decoders, flip-flops,
 
 | Title / Module | Level | Access |
 | --- | --- | --- |
-| 📗 **جزوه کامل مدارهای منطقی و دیجیتال** | از صفر کامل | [🌐 Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html) • |
+| 📗 **جزوه کامل مدارهای منطقی و دیجیتال** | از صفر کامل | [🌐 Live Demo](https://3ina3.github.io/sina-notes/logic-circuits.html) |
 
 <br>
 
@@ -228,6 +228,22 @@ With category filters, code samples, learning paths, and modern UI.
 
 <br>
 
+### 🐙 Git & GitHub Workshop | کارگاه Git و GitHub
+**فارسی**  
+جزوه تعاملی کارگاه ۳ ساعته **Git و GitHub از صفر تا انتشار پروژه**  
+شامل کنترل نسخه، دستورات پایه، شاخه و ادغام، Pull Request، Release و پروژه نهایی.
+
+**English**  
+Interactive 3-hour workshop on **Git & GitHub from zero to publishing a project**  
+Covering version control, basic commands, branching & merging, pull requests, releases, and a final project.
+
+| Access | Link |
+| --- | --- |
+| 🌐 Live Demo | [Git-Github](https://3ina3.github.io/Git-Github/) |
+| 📂 Repository | [Git-Github](https://github.com/3INA3/Git-Github) |
+
+<br>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <br>
@@ -284,13 +300,14 @@ Simple and fast attendance system with automatic redirection to online sessions.
 
 ## 📂 Complete Repository List | لیست کامل ریپازیتوری‌ها
 
-| Project | Short Description | Link |
-| --- | --- | --- |
+| Project | توضیح کوتاه | Short Description | Link |
+| --- | --- | --- | --- |
 | **sina-notes** | مرکز اصلی جزوات آموزشی | Main educational notes hub | [View](https://github.com/3INA3/sina-notes) |
 | **physics2-lab-reports** | گزارش کار تعاملی فیزیک ۲ | Interactive Physics Lab II reports | [View](https://github.com/3INA3/physics2-lab-reports) |
 | **Oxford-IT-Vocab** | واژه‌نامه تخصصی IT | Specialized IT Vocabulary | [View](https://github.com/3INA3/Oxford-IT-Vocab) |
 | **stats-probability-3d** | آمار و احتمال تعاملی سه‌بعدی | Interactive 3D Stats & Probability | [View](https://github.com/3INA3/stats-probability-3d) |
 | **programming-languages-guide** | راهنمای ۵۲ زبان برنامه‌نویسی | Guide to 52 Programming Languages | [View](https://github.com/3INA3/programming-languages-guide) |
+| **Git-Github** | کارگاه تعاملی Git و GitHub | Interactive Git & GitHub Workshop | [View](https://github.com/3INA3/Git-Github) |
 | **neural-rag-movie-search** | موتور جستجوی معنایی فیلم | Semantic Movie Search Engine | [View](https://github.com/3INA3/neural-rag-movie-search) |
 | **luxury-frontend** | فروشگاه لوکس سه‌بعدی | Luxury 3D E-commerce Frontend | [View](https://github.com/3INA3/luxury-frontend) |
 | **attendance-gateway** | سیستم ثبت حضور | Attendance Gateway System | [View](https://github.com/3INA3/attendance-gateway) |
